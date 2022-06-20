@@ -1,7 +1,7 @@
 # Hyperblog 🥇
-Un blog increible para el curso de Git y GitHub de platzi
+Este es un blog para el proyecto del curso de Git y GitHub de platzi
 
-El curso de Git y GitHub de Platzi es el que me va a permitir entrar a la tecnología y poder presentar todos mis proyectos.
+El curso de Git y GitHub de Platzi ha sido muy útil porque me ha permitido conocer esta tecnología que, sin duda, es muy provechosa para todos mis proyectos. 
 
 Recomiendo este curso porque he podido entender lo importante que es aprender Git y GitHub para la industria de la tecnología y cómo puede ayudarme a tener un historial sobre los proyectos que realice de ahora en adelante.
 
