@@ -12,3 +12,4 @@ Recomiendo este curso porque he podido entender lo importante que es aprender Gi
 ------------
 
 * Creado por Daniel Roa 
+* Incluye ejemplos en windows, linux y mac 
